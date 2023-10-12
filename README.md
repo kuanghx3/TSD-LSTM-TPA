@@ -1,6 +1,6 @@
 # TSD-LSTM-TPA
 This is the codes of TSD-LSTM-TPA. It is based on Pytorch.
-The dataset is available at https://data.mendeley.com/datasets/nh2358f5mf, which is same as a TITS paper "An Integrated Approach for the Near Real-Time Parking Occupancy Prediction".
+The dataset is available at https://data.mendeley.com/datasets/nh2358f5mf, which is the same as a TITS paper "An Integrated Approach for the Near Real-Time Parking Occupancy Prediction".
 
 Please cite our paper if you use our dataset or codes.
 A parking occupancy prediction method incorporating time series decomposition and temporal pattern attention mechanism
